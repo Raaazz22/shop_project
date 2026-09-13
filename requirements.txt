@@ -2,4 +2,4 @@ streamlit
 python-dotenv
 google-genai
 replicate
-Pillowgit 
+Pillow
